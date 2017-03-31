@@ -4,6 +4,7 @@ This is a sample application for the [Integration and Verification Techniques](h
 
 
 This is a new line in the file, also changed it a little
+This row has been changed as well, but differently, than on branch A.
 
 ## Getting started
 
